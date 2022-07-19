@@ -41,10 +41,10 @@ const Header = () => {
 
             <li className="">
               <Link href="/collection">
-                <a>Collection</a>
+                <a>Collections</a>
               </Link>
             </li>
-            <li>Resources</li>
+            {/* <li>Resources</li> */}
           </ul>
         </div>
 
